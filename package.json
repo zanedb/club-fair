@@ -1,0 +1,21 @@
+{
+  "name": "club-fair",
+  "version": "1.0.0",
+  "description": "Fork of @tmb/club-fair-attention-monopoly. Minor improvements.",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "http": "latest",
+    "socket.io": "latest"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "contributors": [
+    "Zane Davis-Barrs <github@zane.sh> (https://zane.sh)",
+    "Theo Bleier <github@tmb.sh>"
+  ],
+  "license": "MIT"
+}
